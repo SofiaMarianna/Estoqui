@@ -46,7 +46,7 @@ Pequenos empreendedores do setor de alimentos e bebidas enfrentam, hoje:
 
 Este projeto é documentado com rigor de Product Management, seguindo a sequência: Visão do Produto → Objetivos → Problemas → Missão e Valores → Proposta de Valor → Público-alvo → Personas → Casos de Uso → Requisitos → Implementação.
 
-🔗 **Documentação completa no Notion:** [inserir link do Notion aqui]
+🔗 **Documentação completa no Notion:** [Documentação do projeto](https://app.notion.com/p/Projeto-Estoqui-381847c5229c80afadeeeed33e3886d5?source=copy_link)
 
 ---
 
